@@ -19,6 +19,7 @@
   "devDependencies": {
     "eslint": "^8.52.0",
     "eslint-plugin-react": "^7.33.2",
+    "husky": "^8.0.3",
     "nodemon": "^3.0.1",
     "prettier": "^3.0.3"
   }

@@ -28,3 +28,7 @@
    -> git add .
    -> git push
   
+
+9. husky use-> 
+   install -> npm install husky -D
+   enable hooks means file create = npx husky install
