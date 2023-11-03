@@ -1,0 +1,24 @@
+1. install -> yarn,mongoose,nodejs,.env,surver run👎
+2. npm init eslint -D;
+3. configure eslint -> npm init @eslint/config
+   get create eslint.js file
+4. eslint check => "eslintCheeck":"eslint server.js",
+   npm run eslintCheeck
+
+5.pretter install
+  npm i prettier -D 
+  "prettierCheck":"prettier server.js --check",
+  npm run prettierCheck
+  npm run prettierFix 👽
+
+6.ignore eslint pretter ⬆️
+            * pretter ignore
+            * eslint ignore
+            *git ignore
+7. git push 
+    -> git init . == all file green and add .gitignore == stay then master brance
+    -> git commit -m "first commit" /all file red
+    -> git branch -M main  /brance change
+    -> created repositoru
+    -> git push -u origin main
+  
