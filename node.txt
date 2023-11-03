@@ -16,7 +16,8 @@
             * eslint ignore
             *git ignore
 7. git push 
-    -> git init . == all file green and add .gitignore == stay then master brance
+    -> git init  == all file green and add .gitignore == stay then master brance
+    -> git add .
     -> git commit -m "first commit" /all file red
     -> git branch -M main  /brance change
     -> created repositoru
