@@ -22,4 +22,9 @@
     -> git branch -M main  /brance change
     -> created repositoru
     -> git push -u origin main
+
+8. update to project 
+   -> git commit -m "check"
+   -> git add .
+   -> git push
   
