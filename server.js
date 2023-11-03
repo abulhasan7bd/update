@@ -3,37 +3,10 @@ const express = require("express");
 const app = express();
 const port = 3000;
 
+app.get("/", (req, res) => {
+  res.end("Home how areepage hi         tui");
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-app.get("/", (req,                            
-                              res) => {
-  res.end(
-
-
-
-
-
-
-    "Home how are y        ddddo tuei xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxekieeepage",
-  );
-
-  res.send("<h1>i love yu</h1>");
+  res.send("<h1>i lo ffffff fvffffffffffffffffffffffffffffve yu</h1>");
 });
 
 app.listen(port, () => {

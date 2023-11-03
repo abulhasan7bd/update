@@ -8,7 +8,7 @@
     "prettierCheck": "prettier server.js --check",
     "prettierFix": "prettier server.js --write",
     "start": "nodemon server.js",
-    "prepare": "husky install" 
+    "husky-install": "husky install"
   },
   "author": "",
   "license": "ISC",
@@ -20,8 +20,9 @@
   "devDependencies": {
     "eslint": "^8.52.0",
     "eslint-plugin-react": "^7.33.2",
+    "husky": "^8.0.3",
+    "lint-staged": "^15.0.2",
     "nodemon": "^3.0.1",
-    "prettier": "^3.0.3",
-    "husky": "^8.0.0"
+    "prettier": "^3.0.3"
   }
 }
